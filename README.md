@@ -1,4 +1,4 @@
-### Olá! Eu sou o Matheus Kamer
+### Oi! Muito prazer, meu nome é Matheus Kamer...
 
 <div>
   <a href="https://github.com/MatheusKamer">
