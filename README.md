@@ -52,6 +52,9 @@ Currently based in Lithuania 🇱🇹 and open to international opportunities.
 
 Personal finance management platform built with a modern full-stack architecture.
 
+**APPLICATION:**  
+https://fincheck-frontend-92rs.onrender.com/
+
 **Frontend:**  
 https://github.com/MatheusKamer/fincheck-frontend
 
@@ -75,6 +78,9 @@ AI-powered finance assistant focused on helping users understand and manage fina
 ### 👕 FSW Bewear
 
 Modern e-commerce application with authentication, product catalog and checkout flow.
+
+**APPLICATION:**  
+https://fsw-bewear.vercel.app/
 
 🔗 https://github.com/MatheusKamer/fsw-bewear
 
