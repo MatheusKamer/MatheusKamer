@@ -69,6 +69,9 @@ https://github.com/MatheusKamer/fincheck-api
 
 AI-powered finance assistant focused on helping users understand and manage financial information.
 
+**APPLICATION:**  
+https://finance-ai-rho-ten.vercel.app/login
+
 🔗 https://github.com/MatheusKamer/finance-ai
 
 **Tech Stack:** Next.js, TypeScript, AI Integrations
